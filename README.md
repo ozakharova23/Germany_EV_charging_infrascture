@@ -1,8 +1,11 @@
 # Germany_EV_charging_infrascture
 
 Table of Contents
+
 General Info
+
 Dataset
+
 Technology stack
 
 ## Dataset
